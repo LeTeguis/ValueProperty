@@ -1,0 +1,3 @@
+[submodule "Utils/Logger"]
+	path = Utils/Logger
+	url = https://github.com/LeTeguis/Logger.git
